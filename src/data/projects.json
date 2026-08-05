@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "tag": "E-Commerce",
+    "title": "E-commerce App",
+    "description": "Full MEVN e-commerce platform with product filtering, cart system, checkout, and admin dashboard.",
+    "image": "/images/Ecommerce App.png",
+    "liveDemo": "http://zuitt-bootcamp-prod-610-9655-ronquillo.s3-website.us-east-1.amazonaws.com/products",
+    "github": "#"
+  },
+  {
+    "id": 2,
+    "tag": "Fitness App",
+    "title": "FitTrack",
+    "description": "Full MEVN fitness application with CRUD operation. The user can create, read, update, and delete workout.",
+    "image": "/images/Ecommerce App.png",
+    "liveDemo": "https://fitness-app-two-brown.vercel.app/dashboard",
+    "github": "#"
+  },
+  {
+    "id": 3,
+    "tag": "API",
+    "title": "E-commerce API Documentation",
+    "description": "Dynamic e-commerce workflow system with order processing, inventory updates, authentication, and Postman API documentation.",
+    "image": "/images/Ecommerce API Documentation.png",
+    "liveDemo": "#",
+    "github": "#"
+  },
+  {
+    "id": 4,
+    "tag": "API",
+    "title": "Course Booking API",
+    "description": "RESTful API for course enrollment with authentication, course management, and student registration. Documented via Postman.",
+    "image": "/images/Payment Information.png",
+    "liveDemo": "#",
+    "github": "#"
+  },
+  {
+    "id": 5,
+    "tag": "MERN",
+    "title": "Course Booking App",
+    "description": "MERN stack app with authentication, course management, and enrollment system for users.",
+    "image": "/images/Bibliophile-rafiki.png",
+    "liveDemo": "#",
+    "github": "#"
+  },
+  {
+    "id": 6,
+    "tag": "UI/UX",
+    "title": "Airline Booking Mockup",
+    "description": "Concept UI design for flight booking, seat selection, and reservation flow focused on UX.",
+    "image": "/images/Airline Booking System Mockup.png",
+    "liveDemo": "#",
+    "github": "#"
+  },
+  {
+    "id": 7,
+    "tag": "Prototype",
+    "title": "Airline Booking Prototype",
+    "description": "Interactive prototype simulating booking, payments, and ticket management.",
+    "image": "/images/Study abroad-rafiki.png",
+    "liveDemo": "#",
+    "github": "#"
+  },
+  {
+    "id": 8,
+    "tag": "Capstone",
+    "title": "Short Courses Capstone",
+    "description": "Full-stack project applying frontend, backend, and database integration skills.",
+    "image": "/images/JavaScript frameworks-pana.png",
+    "liveDemo": "#",
+    "github": "#"
+  }
+]
