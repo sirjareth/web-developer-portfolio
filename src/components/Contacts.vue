@@ -12,7 +12,7 @@
           <div class="contact-map-placeholder h-100">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124207.67247498203!2d121.11236869692398!3d13.38197181844695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bce8d27f6f844d%3A0xf7cc1b1c943ab71b!2sCalapan%20City%2C%20Oriental%20Mindoro!5e0!3m2!1sen!2sph!4v1776055064470!5m2!1sen!2sph"
-              width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+              width="100%" height="100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
             </iframe>
           </div>
         </div>
@@ -59,7 +59,7 @@ import "notyf/notyf.min.css";
 const notyf = new Notyf();
 
 const WEB3FORMS_ACCESS_KEY = "1c28a6b3-1a75-438b-9ad5-cfd291b53fa0";
-const SITE_KEY = "6LdgrP0sAAAAALGoO-96sOmvUtdnCZmnaJEOaihh";
+
 
 const emailSubject = "New message from Portfolio Contact Form";
 
@@ -71,6 +71,7 @@ const message = ref("");
 const isLoading = ref(false);
 
 /* ---------------------- reCAPTCHA ---------------------- */
+const SITE_KEY = "6LfI53ctAAAAAKMVB5P-gWTIJ5ZMh47NKdU6QmuW";
 
 const recaptchaContainer = ref(null);
 const recaptchaWidgetId = ref(null);
@@ -93,6 +94,7 @@ function renderRecaptcha() {
     recaptchaContainer.value,
     {
       sitekey: SITE_KEY,
+      size: 'normal',
       callback: onRecaptchaSuccess,
       "expired-callback": onRecaptchaExpired,
     }
@@ -124,10 +126,10 @@ const submitForm = async () => {
     return;
   }
 
-  // if (!recaptchaToken.value) {
-  //   notyf.error("Please verify that you are not a robot.");
-  //   return;
-  // }
+  if (!recaptchaToken.value) {
+    notyf.error("Please verify that you are not a robot.");
+    return;
+  }
 
   isLoading.value = true;
 
@@ -168,6 +170,7 @@ const submitForm = async () => {
     notyf.error("Something went wrong.");
   } finally {
     isLoading.value = false;
+    resetRecaptcha();
   }
 };
 
