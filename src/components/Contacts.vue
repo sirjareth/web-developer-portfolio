@@ -38,14 +38,16 @@
             </button>
           </div>
 
-          <div class="d-flex justify-content-end mt-3">
-            <div ref="recaptchaContainer"></div>
-          </div>
+
 
           <!-- Socials -->
           <div class="d-flex gap-2 mt-4">
             <a href="https://github.com/sirjareth" class="social-btn" title="GitHub" target="_blank">GH</a>
             <a href="https://www.linkedin.com/feed/" class="social-btn" title="LinkedIn" target="_blank">in</a>
+          </div>
+
+          <div class="d-flex justify-content-end mt-3">
+            <div ref="recaptchaContainer"></div>
           </div>
         </div>
 
