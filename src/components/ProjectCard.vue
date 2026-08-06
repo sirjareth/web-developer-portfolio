@@ -6,7 +6,7 @@
         <img :src="project.image" alt="E-commerce App">
       </div>
       <div class="project-body">
-        <span class="project-tag">E-Commerce</span>
+        <span class="project-tag">{{ project.tag }}</span>
         <h5>{{ project.title }}</h5>
         <p>{{ project.description }}</p>
         <div>

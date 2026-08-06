@@ -1,48 +1,48 @@
 [
   {
     "id": 1,
-    "tag": "E-Commerce",
+    "tag": "MEVN",
     "title": "E-commerce App",
     "description": "Full MEVN e-commerce platform with product filtering, cart system, checkout, and admin dashboard.",
     "image": "/images/Ecommerce App.png",
     "liveDemo": "http://zuitt-bootcamp-prod-610-9655-ronquillo.s3-website.us-east-1.amazonaws.com/products",
-    "github": "#"
+    "github": "https://git.zuitt.co/B610/b610-csp3-roque-ronquillo"
   },
   {
     "id": 2,
-    "tag": "Fitness App",
-    "title": "FitTrack",
+    "tag": "MEVN",
+    "title": "Fitness Tracker App",
     "description": "Full MEVN fitness application with CRUD operation. The user can create, read, update, and delete workout.",
-    "image": "/images/Ecommerce App.png",
+    "image": "/images/Fitness.png",
     "liveDemo": "https://fitness-app-two-brown.vercel.app/dashboard",
-    "github": "#"
+    "github": "https://github.com/sirjareth/fitness-app"
   },
   {
     "id": 3,
-    "tag": "API",
-    "title": "E-commerce API Documentation",
-    "description": "Dynamic e-commerce workflow system with order processing, inventory updates, authentication, and Postman API documentation.",
-    "image": "/images/Ecommerce API Documentation.png",
-    "liveDemo": "#",
-    "github": "#"
+    "tag": "MEVN",
+    "title": "Blog App",
+    "description": "Full MEVN blog application featuring secure user authentication, post creation and management.",
+    "image": "/images/Blog.png",
+    "liveDemo": "https://blog-fullstack-app-lilac.vercel.app/",
+    "github": "https://github.com/sirjareth/blog-fullstack-app"
   },
   {
     "id": 4,
-    "tag": "API",
-    "title": "Course Booking API",
-    "description": "RESTful API for course enrollment with authentication, course management, and student registration. Documented via Postman.",
-    "image": "/images/Payment Information.png",
-    "liveDemo": "#",
-    "github": "#"
+    "tag": "Back-End",
+    "title": "Movie Catalog API",
+    "description": "RESTful movie catalog API that enables clients to manage movie records through secure CRUD operations.",
+    "image": "/images/Movie.png",
+    "liveDemo": "https://movie-catalog-application.vercel.app/",
+    "github": "https://github.com/sirjareth/movie-catalog-api"
   },
   {
     "id": 5,
-    "tag": "MERN",
-    "title": "Course Booking App",
-    "description": "MERN stack app with authentication, course management, and enrollment system for users.",
-    "image": "/images/Bibliophile-rafiki.png",
-    "liveDemo": "#",
-    "github": "#"
+    "tag": "Back-End",
+    "title": "Course Booking API",
+    "description": "RESTFUL course booking api with authentication, course management, and enrollment system for users.",
+    "image": "/images/CourseBooking.png",
+    "liveDemo": "https://keisn8waw3.execute-api.us-east-2.amazonaws.com/production",
+    "github": "https://git.zuitt.co/B610/csp2-b610-ronquillo-roque"
   },
   {
     "id": 6,
