@@ -66,32 +66,31 @@
           </div>
         </div>
 
-        <!-- Other Tools -->
+        <!-- Development Tools -->
         <div class="col-lg-6">
           <p class="tools-group-title">Other Tools</p>
           <div>
+
             <div class="tool-chip">
-              <div class="tool-icon">📮</div> Postman
-            </div>
-            <div class="tool-chip">
-              <div class="tool-icon">🔧</div> Git 
+              <div class="tool-icon">🔧</div> Git
             </div>
             <div class="tool-chip">
               <div class="tool-icon">🐙</div> GitHub
             </div>
             <div class="tool-chip">
-              <div class="tool-icon">💻</div> VS Code
+              <div class="tool-icon">📮</div> Postman
             </div>
             <div class="tool-chip">
-              <div class="tool-icon">🖥️</div> Visual Studio
+              <div class="tool-icon">💻</div> Trello
+            </div>
+            <div class="tool-chip">
+              <div class="tool-icon">🖥️</div> VS Code
             </div>
             <div class="tool-chip">
               <div class="tool-icon">📝</div> Sublime Text
             </div>
-            <div class="tool-chip">
-              <div class="tool-icon">☕</div> NetBeans
-            </div>
-            
+
+
           </div>
         </div>
 
