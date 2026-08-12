@@ -39,36 +39,19 @@
     "id": 5,
     "tag": "Back-End",
     "title": "Course Booking API",
-    "description": "RESTFUL course booking api with authentication, course management, and enrollment system for users.",
+    "description": "RESTful course booking api with authentication, course management, and enrollment system for users.",
     "image": "/images/CourseBooking.png",
     "liveDemo": "https://keisn8waw3.execute-api.us-east-2.amazonaws.com/production",
     "github": "https://git.zuitt.co/B610/csp2-b610-ronquillo-roque"
   },
   {
     "id": 6,
-    "tag": "UI/UX",
-    "title": "Airline Booking Mockup",
-    "description": "Concept UI design for flight booking, seat selection, and reservation flow focused on UX.",
+    "tag": "Back-End",
+    "title": "Airline Booking API",
+    "description": "Backend API for airline booking, including flight management, seat selection, and reservation functionality.",
     "image": "/images/Airline Booking System Mockup.png",
-    "liveDemo": "#",
-    "github": "#"
-  },
-  {
-    "id": 7,
-    "tag": "Prototype",
-    "title": "Airline Booking Prototype",
-    "description": "Interactive prototype simulating booking, payments, and ticket management.",
-    "image": "/images/Study abroad-rafiki.png",
-    "liveDemo": "#",
-    "github": "#"
-  },
-  {
-    "id": 8,
-    "tag": "Capstone",
-    "title": "Short Courses Capstone",
-    "description": "Full-stack project applying frontend, backend, and database integration skills.",
-    "image": "/images/JavaScript frameworks-pana.png",
-    "liveDemo": "#",
-    "github": "#"
+    
+    "github": "https://github.com/WatamelonP/airline-booking-system/tree/master/backend"
   }
+  
 ]
