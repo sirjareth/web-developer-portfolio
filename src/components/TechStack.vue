@@ -68,7 +68,7 @@
 
         <!-- Development Tools -->
         <div class="col-lg-6">
-          <p class="tools-group-title">Other Tools</p>
+          <p class="tools-group-title">Development Tools</p>
           <div>
 
             <div class="tool-chip">
