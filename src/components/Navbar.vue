@@ -25,7 +25,7 @@
         </ul>
         <!-- Resume Button -->
           <li class="nav-item ms-lg-3 d-flex align-items-center">
-            <a href="https://drive.google.com/file/d/1KciaZTEroFUleXJIYY0mbaxrf5_66OqY/view" target="_blank" class="resume-btn">
+            <a href="https://drive.google.com/file/d/1LWolqkUS4szZUv07rKsTb7TlLSGbT-NK/view" target="_blank" class="resume-btn">
               Resume
             </a>
           </li>

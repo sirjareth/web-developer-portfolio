@@ -28,7 +28,7 @@
           <div class="d-flex flex-wrap gap-3">
             <a href="#projects" class="btn-primary-custom">View My Work</a>
             <!-- <a href="#contact" class="btn-outline-custom">Contact Me</a> -->
-            <a href="https://drive.google.com/file/d/1KciaZTEroFUleXJIYY0mbaxrf5_66OqY/view" class="btn-resume-custom"
+            <a href="https://drive.google.com/file/d/1LWolqkUS4szZUv07rKsTb7TlLSGbT-NK/view" class="btn-resume-custom"
               target="_blank">View My Resume</a>
           </div>
         </div>
