@@ -14,7 +14,7 @@
     "title": "Fitness Tracker App",
     "description": "Full MEVN fitness application with CRUD operation. The user can create, read, update, and delete workout.",
     "image": "/images/Fitness.png",
-    "liveDemo": "https://fitness-app-two-brown.vercel.app/dashboard",
+    "liveDemo": "https://fitness-app-two-brown.vercel.app",
     "github": "https://github.com/sirjareth/fitness-app"
   },
   {
