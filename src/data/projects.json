@@ -32,7 +32,7 @@
     "title": "Movie Catalog API",
     "description": "RESTful movie catalog API that enables clients to manage movie records through secure CRUD operations.",
     "image": "/images/Movie.png",
-    "liveDemo": "https://movie-catalog-application.vercel.app/",
+    
     "github": "https://github.com/sirjareth/movie-catalog-api"
   },
   {
@@ -41,7 +41,7 @@
     "title": "Course Booking API",
     "description": "RESTful course booking api with authentication, course management, and enrollment system for users.",
     "image": "/images/CourseBooking.png",
-    "liveDemo": "https://keisn8waw3.execute-api.us-east-2.amazonaws.com/production",
+    
     "github": "https://git.zuitt.co/B610/csp2-b610-ronquillo-roque"
   },
   {
