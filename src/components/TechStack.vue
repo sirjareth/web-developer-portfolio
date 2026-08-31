@@ -31,19 +31,25 @@
         <!-- Backend -->
         <div class="col-lg-6">
           <p class="tools-group-title">Backend</p>
-          <div>
+            <div class="tool-chip">
+                <div class="tool-icon">⚡</div> Express.js
+              </div>
+            <div>
+            <div class="tool-chip">
+              <div class="tool-icon">🟢</div> Node.js
+            </div>
             <div class="tool-chip">
               <div class="tool-icon">☕</div> Java
             </div>
-            <div class="tool-chip">
+            <!-- <div class="tool-chip">
               <div class="tool-icon">🌱</div> Spring Boot
-            </div>
+            </div> -->
             <div class="tool-chip">
               <div class="tool-icon">💜</div> C#
             </div>
-            <div class="tool-chip">
+            <!-- <div class="tool-chip">
               <div class="tool-icon">🔷</div> .NET
-            </div>
+            </div> -->
             <div class="tool-chip">
               <div class="tool-icon">🐬</div> MySQL
             </div>
