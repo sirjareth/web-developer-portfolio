@@ -32,8 +32,8 @@
         <div class="col-lg-6">
           <p class="tools-group-title">Backend</p>
             <div class="tool-chip">
-                <div class="tool-icon">⚡</div> Express.js
-              </div>
+              <div class="tool-icon">⚡</div> Express.js
+            </div>
             <div>
             <div class="tool-chip">
               <div class="tool-icon">🟢</div> Node.js
