@@ -5,7 +5,7 @@
     "title": "E-commerce App",
     "description": "Full MEVN e-commerce platform with product filtering, cart system, checkout, and admin dashboard.",
     "image": "/images/Ecommerce App.png",
-    "liveDemo": "https://nexusplay-ecommerce-fullstack-app.vercel.app/products",
+    "liveDemo": "https://nexusplay-ecommerce-fullstack-app.vercel.app/",
     "github": "https://github.com/sirjareth/nexusplay-ecommerce-fullstack-app"
   },
   {
