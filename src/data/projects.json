@@ -5,8 +5,8 @@
     "title": "E-commerce App",
     "description": "Full MEVN e-commerce platform with product filtering, cart system, checkout, and admin dashboard.",
     "image": "/images/Ecommerce App.png",
-    "liveDemo": "http://zuitt-bootcamp-prod-610-9655-ronquillo.s3-website.us-east-1.amazonaws.com/products",
-    "github": "https://git.zuitt.co/B610/b610-csp3-roque-ronquillo"
+    "liveDemo": "https://nexusplay-ecommerce-fullstack-app.vercel.app/products",
+    "github": "https://github.com/sirjareth/nexusplay-ecommerce-fullstack-app"
   },
   {
     "id": 2,
