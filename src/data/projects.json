@@ -42,7 +42,7 @@
     "description": "RESTful course booking api with authentication, course management, and enrollment system for users.",
     "image": "/images/CourseBooking.png",
     
-    "github": "https://git.zuitt.co/B610/csp2-b610-ronquillo-roque"
+    "github": "https://github.com/sirjareth/course-booking-api"
   },
   {
     "id": 6,
