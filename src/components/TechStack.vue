@@ -31,13 +31,13 @@
         <!-- Backend -->
         <div class="col-lg-6">
           <p class="tools-group-title">Backend</p>
+          <div>
             <div class="tool-chip">
               <div class="tool-icon">⚡</div> Express.js
             </div>
             <div class="tool-chip">
               <div class="tool-icon">🟢</div> Node.js
             </div>
-            
             <div class="tool-chip">
               <div class="tool-icon">☕</div> Java
             </div>
@@ -76,7 +76,6 @@
         <div class="col-lg-6">
           <p class="tools-group-title">Development Tools</p>
           <div>
-
             <div class="tool-chip">
               <div class="tool-icon">🔧</div> Git
             </div>
@@ -95,12 +94,10 @@
             <div class="tool-chip">
               <div class="tool-icon">📝</div> Sublime Text
             </div>
-
-
           </div>
         </div>
 
-      </div>
-    
+      </div><!-- /.row -->
+    </div><!-- /.container -->
   </section>
 </template>
