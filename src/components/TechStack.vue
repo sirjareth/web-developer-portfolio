@@ -37,7 +37,7 @@
             <div class="tool-chip">
               <div class="tool-icon">🟢</div> Node.js
             </div>
-            <div></div>
+            
             <div class="tool-chip">
               <div class="tool-icon">☕</div> Java
             </div>
