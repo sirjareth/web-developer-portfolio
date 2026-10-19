@@ -2,7 +2,7 @@
   <!-- ===================== NAVBAR ===================== -->
   <nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand" href="#landing">Port<span>folio</span></a>
+      <a class="navbar-brand" href="#landing">Jareth<span>Dev</span></a>
 
       <button
         class="navbar-toggler"
