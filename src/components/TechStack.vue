@@ -34,16 +34,16 @@
             <div class="tool-chip">
               <div class="tool-icon">⚡</div> Express.js
             </div>
-            <div>
             <div class="tool-chip">
               <div class="tool-icon">🟢</div> Node.js
             </div>
+            <div></div>
             <div class="tool-chip">
               <div class="tool-icon">☕</div> Java
             </div>
-            <!-- <div class="tool-chip">
-              <div class="tool-icon">🌱</div> Spring Boot
-            </div> -->
+            <div class="tool-chip">
+              <div class="tool-icon">🌱</div> Python
+            </div>
             <div class="tool-chip">
               <div class="tool-icon">💜</div> C#
             </div>
